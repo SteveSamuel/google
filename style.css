@@ -1,0 +1,32 @@
+body {
+    background-color: aliceblue;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: lighter;
+
+}
+
+.card {
+    color: #222222;
+    background-color: lightgray;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px;
+    border: 1px solid black;
+    border-radius: 40px;
+}
+
+button {
+    color: #0f1419;
+    border: 1px solid #cfd9de;
+    border-radius: 20px;
+    background: white;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    font-weight: bold;
+}
